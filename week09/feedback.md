@@ -1,0 +1,1 @@
+When putting together a visualization (like a KDE), make sure you pay attention to the x-range or the scale of the x-axis.  You may want to use a log-scale or narrow your range of x-values to show more detail.
